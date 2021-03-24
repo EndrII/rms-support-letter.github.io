@@ -144,4 +144,4 @@ Signed,
 
 [Vladislav Glinsky](https://github.com/cl0ne)
 
-[Sergei Shilin](https://github.com/GutsyHeart)
+[Andrei Yankovich](https://github.com/EndrII)
